@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "ltd",
+    "precio": 1600,
+    "descripcion": "guitarra genial"
+  },
+  {
+    "id": 2,
+    "titulo": "gibson",
+    "precio": 2000,
+    "descripcion": "guitarra de lujo"
+  },
+  {
+    "id": 3,
+    "titulo": "jackson",
+    "precio": 3800,
+    "descripcion": "guitarra metal"
+  },
+  {
+    "id": 4,
+    "titulo": "fender",
+    "precio": 5000,
+    "descripcion": "guitarra metal clasico"
+  },
+  {
+    "id": 5,
+    "titulo": "prs",
+    "precio": 55000,
+    "descripcion": "guitarra tech"
+  }
+]
